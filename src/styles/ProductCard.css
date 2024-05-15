@@ -1,0 +1,24 @@
+.product {
+	display: flex;
+	flex-direction: column;
+	max-width: 200px;
+	border: 1.5px solid black;
+	margin: 20px;
+	padding: 10px 10px 20px 10px;
+	border-radius: 10px;
+	background-color: rgb(250, 254, 229);
+	text-align: center;
+}
+
+img {
+}
+
+h1 {
+	font-size: 15px;
+}
+
+span {
+	color: red;
+	font-weight: 500;
+	font-size: 12px;
+}
